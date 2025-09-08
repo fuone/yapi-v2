@@ -5,7 +5,7 @@ https://b.link/f/aboutme
 .
 >[!TIP]
 >**CDN**:
->- yapiStyle: _[https://cdn.jsdelivr.net/gh/fuone/yapi@main/yapiStyle.css](https://cdn.jsdelivr.net/gh/fuone/yapi@main/yapiStyle.css)_;
->- yapiStyleRoot: _[https://cdn.jsdelivr.net/gh/fuone/yapi@main/yapiStyleRoot.css](https://cdn.jsdelivr.net/gh/fuone/yapi@main/yapiStyleRoot.css)_;
->- yapiJs: _[https://cdn.jsdelivr.net/gh/fuone/yapi@main/yapiJs.js](https://cdn.jsdelivr.net/gh/fuone/yapi@main/yapiJs.js)_
+>- yapiStyle: _[https://https://cdn.jsdelivr.net/gh/fuone/yapi-v2@main/yapiStyle.css](https://cdn.jsdelivr.net/gh/fuone/yapi-v2@main/yapiStyle.css)_;
+>- yapiStyleRoot: _[https://cdn.jsdelivr.net/gh/fuone/yapi-v2@main/yapiStyleRoot.css](https://cdn.jsdelivr.net/gh/fuone/yapi-v2@main/yapiStyleRoot.css)_;
+>- yapiJs: _[https://cdn.jsdelivr.net/gh/fuone/yapi-v2@main/yapiJs.js](https://cdn.jsdelivr.net/gh/fuone/yapi-v2@main/yapiJs.js)_
 
