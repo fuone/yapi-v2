@@ -1,0 +1,40 @@
+/*----------------------------------------*
+/ YapiStyleRoot.css v2.0
+/ Developer: FuoneDev (fuone.dev@gmail.com)
+/ (c)2025
+/-----------------------------------------*
+/ Updates 
+/ 
+/-----------------------------------------*/
+:root{
+  /* --- cores --- */
+  /* --- variações das cores --- 
+  * dx= mais escura /// lx = mais clara 
+  */
+
+  /* --- constantes --- */
+  --Y-tam-x: 0.1875rem; /*3*/
+	--Y-tam-1: 	calc(1 * var(--Y-tam-x));/*3*/
+	--Y-tam-2: 	calc(2 * var(--Y-tam-x));
+	--Y-tam-3: 	calc(3 * var(--Y-tam-x));
+	--Y-tam-4: 	calc(4 * var(--Y-tam-x));
+	--Y-tam-5: 	calc(5 * var(--Y-tam-x));/*15px*/
+	--Y-tam-5a: 1rem;
+	--Y-tam-6: 	calc(6 * var(--Y-tam-x));
+	--Y-tam-7: 	calc(7 * var(--Y-tam-x));
+	--Y-tam-8: 	calc(8 * var(--Y-tam-x));
+	--Y-tam-9: 	calc(9 * var(--Y-tam-x));
+	--Y-tam-10: calc(10* var(--Y-tam-x));/*30*/
+	--Y-tam-11: calc(11* var(--Y-tam-x));
+	--Y-tam-12: calc(12* var(--Y-tam-x));
+	--Y-tam-13: calc(13* var(--Y-tam-x));
+	--Y-tam-14: calc(14* var(--Y-tam-x));/*42*/
+	--Y-tam-15: calc(15* var(--Y-tam-x));/*45*/
+	--Y-tam-16: calc(16* var(--Y-tam-x));/*48*/
+	--Y-tam-17: calc(17* var(--Y-tam-x));
+	--Y-tam-18: calc(18* var(--Y-tam-x));
+	--Y-tam-19: calc(19* var(--Y-tam-x));
+	--Y-tam-20: calc(20* var(--Y-tam-x));/*60*/
+
+  
+}
